@@ -1,4 +1,4 @@
 # first-demo
 My first git repo
 <br>
-author lakshmi chaithanya
+author lakshmi chaithanya sruthi
